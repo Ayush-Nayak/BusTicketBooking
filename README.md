@@ -24,7 +24,7 @@
 ## 🔧 Installation Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/BusBooking.git
+   git clone https://github.com/Ayush-Nayak/BusBooking.git
 2. Import the database (busbooking_efzare.sql) into MySQL.
 3. Configure database settings in connection.php.
 4. Start a local server (XAMPP, WAMP, MAMP, etc.).
